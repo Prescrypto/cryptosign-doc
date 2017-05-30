@@ -93,4 +93,12 @@ curl -X POST \
 }'
 ```
 
-You should receive a pdf file, like the following:
+You should receive your PDF file and a sheet appended at the end, like the following:
+
+![screenshot](assets/screenshot.png)
+
+### Postman Collection
+
+If you use [Postman](https://www.getpostman.com/) for testing the API, in the `assets` directory you will find the `cryptosign_test.postman_collection` file. Just import it to your existing collections.
+
+![postman](assets/postman.png)

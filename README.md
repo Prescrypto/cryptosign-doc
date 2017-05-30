@@ -52,12 +52,12 @@ Request Body:
 	"signatures" : [
 	{
 		"hash" : "asdldsalkdsaj21j31kl321jk312jk312",
-    "email" : "prueba1@trato.io",
+        "email" : "prueba1@trato.io",
 		"name" : "Prueba 1"
 	},
 	{
 		"hash" : "sdaklkk213hkj312jkh123hjk123hj2hjk31h",
-    "email" : "prueba2@trato.io",
+        "email" : "prueba2@trato.io",
 		"name" : "Prueba 2"
 	}],
 	"params" : {

@@ -13,7 +13,7 @@ Contact the admin to get your credentials, you will be given a pair of keys, `cl
 Open a shell and type:
 
 ```shell
-curl -X POST -d "grant_type=password&username=<user_name>&password=<password>" -u"<client_id>:<client_secret>" https://cryptosign.herokuapp.com:8000/oauth/token/
+curl -X POST -d "grant_type=password&username=<user_name>&password=<password>" -u"<client_id>:<client_secret>" https://cryptosign.herokuapp.com/oauth/token/
 ```
 
 This services returns:

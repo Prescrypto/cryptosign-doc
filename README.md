@@ -105,7 +105,6 @@ curl -X POST \
 
 You should receive your PDF file and a sheet appended at the end, like the following:
 
-![screenshot](assets/screenshot.png)
 
 ### Postman Collection
 

@@ -49,12 +49,12 @@ Request Body:
 ```
 Request Body:
 
-pdf : It's a pdf encode on base64 format
-signatures: It's an array of sign objects
-  hash: A hash with whatever encrypt format just have to be string 
-  emaiL: Email in string format
-  name: Name in string format
-  params: Object with three variables, title ,filename and logo, title and filename in string format and logo in base64 string encoding
+	pdf : It's a pdf encode on base64 format
+	signatures: It's an array of sign objects
+	hash: A hash with whatever encrypt format just have to be string 
+	emaiL: Email in string format
+	name: Name in string format
+	params: Object with three variables, title ,filename and logo, title and filename in string format and logo in base64 string encoding
  ```
  Example
 ```javascript
